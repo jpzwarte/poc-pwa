@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1568018039920,
+  "timestamp": 1568018147308,
   "index": "/poc-pwa/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/poc-pwa/favicon.ico",
         "/poc-pwa/index.html",
-        "/poc-pwa/main-es2015.42c726acec71964b8512.js",
-        "/poc-pwa/main-es5.42c726acec71964b8512.js",
+        "/poc-pwa/main-es2015.03ae71dc709c22237455.js",
+        "/poc-pwa/main-es5.03ae71dc709c22237455.js",
         "/poc-pwa/manifest.webmanifest",
         "/poc-pwa/polyfills-es2015.fd917e7c3ed57f282ee5.js",
         "/poc-pwa/polyfills-es5.3aa54d3e5134f5b5b842.js",
@@ -49,9 +49,9 @@
     "/poc-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/poc-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/poc-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/poc-pwa/index.html": "79325fc0e4f26f0ec57e984463dd618dc921e4a4",
-    "/poc-pwa/main-es2015.42c726acec71964b8512.js": "793db36af8879fcc842b7d53c9d76891a02a1654",
-    "/poc-pwa/main-es5.42c726acec71964b8512.js": "2c53756159babd59ea73b426257e86d0c4aa46a1",
+    "/poc-pwa/index.html": "415ddc6e53a7acd2b78823252c50913a262e675f",
+    "/poc-pwa/main-es2015.03ae71dc709c22237455.js": "ce5a62c2557a2038c464c954eeda12cca15c5992",
+    "/poc-pwa/main-es5.03ae71dc709c22237455.js": "bd7c46e676ecf63ec358440830ce4a5e6df4c610",
     "/poc-pwa/manifest.webmanifest": "cb18c2e8a20f5f6ce11f6f246333dc25fb668265",
     "/poc-pwa/polyfills-es2015.fd917e7c3ed57f282ee5.js": "e2f28c3743afd2899e140ad831df9675c233c02b",
     "/poc-pwa/polyfills-es5.3aa54d3e5134f5b5b842.js": "db091f7ef692a1d3add240459a2ea20c81cd6f19",
