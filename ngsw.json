@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1568018147308,
+  "timestamp": 1568018309692,
   "index": "/poc-pwa/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "/poc-pwa/index.html": "415ddc6e53a7acd2b78823252c50913a262e675f",
     "/poc-pwa/main-es2015.03ae71dc709c22237455.js": "ce5a62c2557a2038c464c954eeda12cca15c5992",
     "/poc-pwa/main-es5.03ae71dc709c22237455.js": "bd7c46e676ecf63ec358440830ce4a5e6df4c610",
-    "/poc-pwa/manifest.webmanifest": "cb18c2e8a20f5f6ce11f6f246333dc25fb668265",
+    "/poc-pwa/manifest.webmanifest": "c3eead1172f86830afc5f82bb8d92992c2ac6b80",
     "/poc-pwa/polyfills-es2015.fd917e7c3ed57f282ee5.js": "e2f28c3743afd2899e140ad831df9675c233c02b",
     "/poc-pwa/polyfills-es5.3aa54d3e5134f5b5b842.js": "db091f7ef692a1d3add240459a2ea20c81cd6f19",
     "/poc-pwa/runtime-es2015.24b02acc1f369d9b9f37.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
